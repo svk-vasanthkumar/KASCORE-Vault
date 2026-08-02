@@ -1,4 +1,6 @@
 # KASCORE Vault
+<div align="center">
+  <img src="logo/logo.png" alt="Logo" width="130" />
 
 <div align="center">
 
