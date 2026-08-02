@@ -1,6 +1,7 @@
-# KASCORE Vault
+
 <div align="center">
-  <img src="logo/logo.png" alt="Logo" width="130" />
+  <img src="logo/logo.svg" alt="Logo" width="300"  />
+  
 
 <div align="center">
 
@@ -18,7 +19,7 @@ Enterprise-grade password security analyzer with real-time strength analysis, en
 
 **Everything runs securely on your device. Nothing ever leaves your browser.**
 
-[Live Demo](#) • [Documentation](./docs) • [Report Bug](#support) • [Request Feature](#support)
+[Live Demo](https://kascore-vault.vercel.app/) • [Documentation](./docs) • [Report Bug](#support) • [Request Feature](#support)
 
 </div>
 
